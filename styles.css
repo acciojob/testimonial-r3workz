@@ -1,9 +1,11 @@
-/*  your css code here. If applicable */
 
 div{
-	padding:10px;
     background-color: white;
     border: 1px solid rgb(223, 223, 223);
     border-radius: 5px;
     margin-bottom: 10px;
+    padding: 5px;
+}
+.cite{
+    text-align: right;
 }
